@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.8.8
+
+### Patch Changes
+
+- 8d785a0b1b: chore: bump `ansi-regex` from `5.0.1` to `6.0.1`
+
 ## 0.8.7
 
 ### Patch Changes

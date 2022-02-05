@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder
 
+## 0.12.2
+
+### Patch Changes
+
+- 319f4b79a2: The ScaffolderPage can be passed an optional `TaskPageComponent` with a `loadingText` string. It will replace the Loading text in the scaffolder task page.
+- Updated dependencies
+  - @backstage/core-components@0.8.8
+
 ## 0.12.1
 
 ### Patch Changes
